@@ -1,4 +1,4 @@
-# vlzakh689
+# Vladyslav Zakharov
 
 👋 Hi, I’m Vladyslav Zakharov  
 💻 Aspiring software developer | Interested in web, games & blockchain  
